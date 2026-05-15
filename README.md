@@ -35,3 +35,6 @@ Users can browse products, manage carts, place orders, and monitor price trends 
 ## Project Goal
 
 Build a scalable and intelligent e-commerce system that enhances the shopping experience using real-time price monitoring and automation.
+
+
+
