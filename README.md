@@ -1,8 +1,3 @@
-# smart-ecommerce-platform
-A full-stack smart e-commerce platform built with React, Node.js, Express, and MongoDB featuring secure authentication, Google login, cart &amp; order management, product price history tracking, automated price-drop alerts, and real-time shopping insights.
-
-
-
 # Smart E-Commerce Platform
 
 A modern full-stack e-commerce application designed to provide an intelligent shopping experience. This platform goes beyond traditional online shopping by combining secure authentication, product management, order handling, and smart price-tracking capabilities.
